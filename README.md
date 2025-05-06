@@ -172,12 +172,18 @@ school.html
 ```
 
 ## OUTPUT
+
+![Screenshot 2025-05-03 104209](https://github.com/user-attachments/assets/aee74fc7-8792-4b8f-9d5e-9e20fbe170dc)
+
 ![alt text](image.png)
 
+![Screenshot 2025-05-06 200103](https://github.com/user-attachments/assets/7cff8e0b-c253-4dad-9fe8-284efbc8ebac)
 
+![image](https://github.com/user-attachments/assets/d5d26578-b7de-42f4-aeab-15548eb05f53)
 
+![image](https://github.com/user-attachments/assets/def09356-233d-4437-b19f-05350b039115)
 
-
+![image](https://github.com/user-attachments/assets/c8ed66c5-86b0-4473-a704-fd4da455667f)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
