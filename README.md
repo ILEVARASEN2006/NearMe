@@ -181,8 +181,6 @@ school.html
 
 ![image](https://github.com/user-attachments/assets/d5d26578-b7de-42f4-aeab-15548eb05f53)
 
-![image](https://github.com/user-attachments/assets/def09356-233d-4437-b19f-05350b039115)
-
 ![image](https://github.com/user-attachments/assets/c8ed66c5-86b0-4473-a704-fd4da455667f)
 
 ## RESULT
